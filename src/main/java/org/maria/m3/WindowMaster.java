@@ -1,3 +1,5 @@
+package org.maria.m3;
+
 import java.util.Scanner;
 
 public class WindowMaster {
